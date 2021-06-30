@@ -47,7 +47,7 @@ https://www.knowi.com/blog/mongodb-vs-sql/
 
 * Example user document in Mongo:
 
-...
+```
 {   _id: <ObjectID>,
     username: "tlamatina",
     password: "12345678",
