@@ -47,12 +47,13 @@ https://www.knowi.com/blog/mongodb-vs-sql/
 
 * Example user document in Mongo:
 
+...
 {   _id: <ObjectID>,
     username: "tlamatina",
     password: "12345678",
     email: "tassi.lamatina@gmail.com"
 }
-
+```
 
 6. What is an example situation where a Mongo database makes sense versus a non-relational db?
 
