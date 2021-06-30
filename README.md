@@ -30,7 +30,7 @@ https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/non-rela
 
 4. In this class we will be using Mongo specificially as our no-SQL db. Look into Mongo and answer this question: what is the priamry difference between how Mongo is maintained vrs SQL?
 
-SQL databases are used to store structured data while NoSQL databases like MongoDB are used to save unstructured data.
+* SQL databases are used to store structured data while NoSQL databases like MongoDB are used to save unstructured data.
 MongoDB is used to save unstructured data in JSON format.
 MongoDB does not support advanced analytics and joins like SQL databases support.
 
