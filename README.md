@@ -41,8 +41,9 @@ https://www.knowi.com/blog/mongodb-vs-sql/
 
 * Example user table in Postgres:
 
-id	username	password	email
-1	tlamatina	12345678	tassi.lamatina@gmail.com
+id|	username | password	| email
+---|---|---
+1 | tlamatina | 12345678 | tassi.lamatina@gmail.com
 
 * Example user document in Mongo:
 
