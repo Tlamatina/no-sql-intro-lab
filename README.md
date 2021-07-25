@@ -43,15 +43,15 @@ https://www.knowi.com/blog/mongodb-vs-sql/
 
 | id | username  | password  |     email                |
 :---:|:---------:|:---------:| :-----------------------:|
-| 1  | tlamatina | 12345678  | tassi.lamatina@gmail.com |
+| 1  | username | 12345678  | user@email.com |
 
 * Example user document in Mongo:
 
 ```
 {   _id: <ObjectID>,
-    username: "tlamatina",
+    username: "username",
     password: "12345678",
-    email: "tassi.lamatina@gmail.com"
+    email: "user@email.com"
 }
 ```
 
